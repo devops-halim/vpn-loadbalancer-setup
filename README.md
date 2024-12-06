@@ -1,5 +1,5 @@
 
-# WireGuard + HAProxy Setup for Site-to-Site VPN
+# WireGuard + HAProxy Setup for Site-to-Site VPN 
 
 This repository contains a guide and configuration files for setting up a **site-to-site VPN** using **WireGuard** and routing traffic through **HAProxy**. The setup allows seamless access to a local application from a remote Hetzner server via a secure VPN.
 
