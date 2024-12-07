@@ -29,7 +29,7 @@ The setup involves the following components:
 
 ## Prerequisites
 1. **Servers**:
-   - A **Hetzner Cloud Server** (or equivalent public server).
+   - A [Hetzner Cloud Server](https://github.com/devops-halim/opentofu/tree/hz_cloud). (or equivalent public server).
    - A **Local Server** to host your application.
 2. **Tools**:
    - Linux OS on both servers (Debian/Ubuntu recommended).
@@ -138,5 +138,3 @@ sudo systemctl restart haproxy
 
 ---
 
-## Creat Hetzner Sever 
-[HZ-Server](https://github.com/devops-halim/opentofu/tree/hz_cloud).
