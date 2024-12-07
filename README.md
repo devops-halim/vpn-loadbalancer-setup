@@ -138,10 +138,5 @@ sudo systemctl restart haproxy
 
 ---
 
-## Contributing
-Feel free to open issues or submit pull requests for improvements.
-
----
-
-## License
-This project is licensed under the MIT License.
+## Creat Hetzner Sever 
+[HZ-Server](https://github.com/devops-halim/opentofu/tree/hz_cloud).
